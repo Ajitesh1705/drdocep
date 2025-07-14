@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "title": "Readout Electronics for Solid-State Image Sensors",
+    "director": "Dr. R.S.  sz ",
+    "deputy": "Mrs. "
+  },
+  {
+    "id": 3,
+    "title": "Advanced Piezoelectric Material and Devices",
+    "director": "Sh. Manish Kumar Sinha",
+    "deputy": "Chirag Sharma"
+  },
+  {
+    "id": 4,
+    "title": "Current & Futuristic MEMS Technologies for Defence Applications",
+    "director": "Mr. Milap Singh",
+    "deputy": "Mr. Amit Kumar Vishwakarma"
+  },
+  {
+    "id": 5,
+    "title": "Acoustic Emission Technology: Its Application for Defence and Industries",
+    "director": "Sushil Kumar Singh",
+    "deputy": "Mr. Amit Kumar"
+  }
+]
